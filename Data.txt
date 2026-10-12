@@ -7,7 +7,7 @@ start.main ( ) {
     .out("Name: ${name}");
     .out("Age: ${age}");
     .out("Major: ${major}");
-    .out("ID: ${shn}");
+    .out("ID: ${nim}");
 
     return.end;
 }
