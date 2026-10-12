@@ -1,0 +1,13 @@
+// Spider 1.0.10 Beta
+start.main ( ) {
+    value(chars{name}) = "Tanaka Jackie ";
+    value(int{age}) = 18 ;
+    value(chars{major}) = "D3 IT ";
+    value(chars{nim}) = "3042026057 ";
+    .out("Name: ${name}");
+    .out("Age: ${age}");
+    .out("Major: ${major}");
+    .out("ID: ${shn}");
+
+    return.end;
+}
